@@ -1,4 +1,5 @@
-amazon
-dell
-walmart
-apple
+hotmail
+outlook
+live
+msn
+yahoo
